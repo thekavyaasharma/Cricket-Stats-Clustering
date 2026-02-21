@@ -82,7 +82,7 @@ Listed in `requirements.txt`, typically including:
 - scikit-learn
 - matplotlib
 - seaborn
-- jupyter
+- jupyter notebook
 
 Install using:
 
