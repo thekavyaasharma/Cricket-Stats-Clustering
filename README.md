@@ -1,4 +1,4 @@
-# 🏏 Cricket Statistics Clustering
+# 🏏 Cricket Stats analayis using Clustering Algorithm
 
 This repository contains a cricket statistics clustering project that applies unsupervised machine learning techniques to group players based on performance metrics.  
 The analysis is performed using Python (in a Jupyter Notebook) and explores patterns in batters/bowlers performance from a cricket dataset (`Cricket.csv`).
